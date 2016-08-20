@@ -1,0 +1,14 @@
+layout_spectrum: 0.5169635841157287
+typography_spectrum: 0.7252386147156358
+color:
+  brandStrength: 0.1290074752178043
+  lightness: 0.029916850849986076
+  saturation: 0.26278816210106015
+  rhythmicContrast: 0.0554108414798975
+  brandColors:
+    - '#0B0603'
+    - '#6B3F22'
+    - '#D3C9B6'
+    - '#CA9600'
+    - '#FFFFFF'
+name: blackcaviar.com.au
