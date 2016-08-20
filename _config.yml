@@ -1,4 +1,3 @@
-layout_spectrum: 0.5169635841157287
 typography_spectrum: 0.7252386147156358
 color:
   brandStrength: 0.1290074752178043
@@ -11,4 +10,6 @@ color:
     - '#D3C9B6'
     - '#CA9600'
     - '#FFFFFF'
+layout_spectrum: 0.5169635841157287
 name: blackcaviar.com.au
+title: Northern Divine Caviar
