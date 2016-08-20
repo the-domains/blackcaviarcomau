@@ -19,5 +19,10 @@ navigation:
   - name: Our Caviar is certified Organic by GLOBAL TRUST
     url: 'http://www.gtcert.com/'
     type: external
+  - name: >-
+      Tour NORTHERN DIVINE AQUAFARMS LTD. and see how the Sturgeon are
+      sustanably raised and cared for
+    url: 'http://www.northerndivine.com/images/video/sturgeon.mp4'
+    type: external
 title: Northern Divine
 description: "Certified organic Caviar\_"
