@@ -16,5 +16,8 @@ navigation:
   - name: Our Caviar is recognized as sustainable by OceanWise™
     url: 'http://www.oceanwise.ca/seafood/caviarroe/white-sturgeon-caviar '
     type: external
+  - name: Our Caviar is CERTIFIED ORGANIC BY GLOBAL TRUST
+    url: 'http://www.gtcert.com/'
+    type: external
 title: Northern Divine
 description: "Certified organic Caviar\_"
