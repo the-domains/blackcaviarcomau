@@ -10,7 +10,12 @@ color:
     - '#D3C9B6'
     - '#CA9600'
     - '#FFFFFF'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/08c051b5-3aa5-4bf0-b28e-529ba693f41e.jpg
 layout_spectrum: 0.5169635841157287
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/71abb6f3-da7b-4f6a-b307-0f064c7967a4.jpg
 name: blackcaviar.com.au
 navigation:
   - name: Our Caviar is certified Organic by GLOBAL TRUST
@@ -22,5 +27,7 @@ navigation:
   - name: See how the Sturgeon are sustanably raised and cared for
     url: 'http://www.northerndivine.com/images/video/sturgeon.mp4'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2413580b-b044-4331-9082-7d3580ebb932.jpg
 title: Northern Divine
 description: "Certified organic Caviar\_"
