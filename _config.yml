@@ -1,14 +1,33 @@
-layout_spectrum: 0.5169635841157287
-typography_spectrum: 0.7252386147156358
+layout_spectrum: 0.4364691593218595
+typography_spectrum: 0.5609951261430979
 color:
-  brandStrength: 0.1290074752178043
-  lightness: 0.029916850849986076
-  saturation: 0.26278816210106015
-  rhythmicContrast: 0.0554108414798975
+  brandStrength: 0.969359194394201
+  lightness: 0.29627256258390844
+  saturation: 0.9183031963184476
+  rhythmicContrast: 0.835509663913399
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/08c051b5-3aa5-4bf0-b28e-529ba693f41e.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/96d40177-49c9-4c74-bef3-7aa1798baa1a.jpg
 name: blackcaviar.com.au
+navigation:
+  - name: Our Caviar is certified Organic by GLOBAL TRUST
+    url: 'http://www.gtcert.com/'
+    type: external
+  - name: Our Caviar is recognized as sustainable by OceanWise™
+    url: 'http://www.oceanwise.ca/seafood/caviarroe/white-sturgeon-caviar '
+    type: external
+  - name: See how the Sturgeon are sustanably raised and cared for
+    url: 'http://www.northerndivine.com/images/video/sturgeon.mp4'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/2413580b-b044-4331-9082-7d3580ebb932.jpg
+title: Northern Divine
+description: "Certified organic Caviar\_"
